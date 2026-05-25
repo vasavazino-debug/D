@@ -1,0 +1,6 @@
+BOT_TOKEN=8753601188:AAH4v21bhlYyod2BJ_CqfYKu_lvQG4cKHIY
+MONGODB_URI=mongodb+srv://rv461469_db_user:O0k1514wgT5ATFTV@cluster0.liiy3wl.mongodb.net/?appName=Cluster0
+DATABASE_NAME=my_database
+API_URL=https://apnasmmapnel.store/api/v2
+API_KEY=rnd_UhdSnsbeOlM0pPWG6zSlllIZKK5a
+ADMIN_IDS=5594023913
